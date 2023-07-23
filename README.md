@@ -20,7 +20,7 @@ Meanwhile, user's maker sell order is placed at before this trade, and user's or
 ![image-5.png](./misc/STMXTradeHistory.png)
 
 
-User's order is placed at 09:44:03 which was cancelled after 09:50:00 by user'sself due to user's position sufferring magnificent loss in very short time, user was forced to close this long position at much lower price around 0.55.
+User's order is placed at 09:44:03 which was cancelled after 09:50:00 by user himself due to user's position sufferring magnificent loss in very short time, this user was forced to close this long position at much lower price around 0.55.
 
 At meanwhile, Binance shows that the price was 0.00712 at 09:44:04, which means, user's sell order @ 0.00703 should be filled if those information is true.
 
