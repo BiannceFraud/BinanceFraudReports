@@ -46,6 +46,6 @@ From social media:
 
 ### More Cases Reports are Welcomed
 
-If you are suffering loss due to Binance FRAUD as above, please send more your information and proofment, we will put them togather and report to administrations. 
+If you are suffering loss due to Binance FRAUD as mentioned above, please send more your information and proofment, we will put them togather and report to administrations. 
 
 ### Contact: [binancefraud13@gmail.com](mailto:binancefraud13@gmail.com)
