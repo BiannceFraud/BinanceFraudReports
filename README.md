@@ -8,7 +8,7 @@
 
 As you can see in second picture, Binance send user that there are 81236.7 CELO/USDT buy trade happened at 20:38:29.
 
-Meanwhile, user's maker order is placed at before this trade, and user's order was the first at sell 14457.40000000 @ 0.498 due to user's order was traded at 20:38:28, which means, if the Binance claimed 81236.7 did happened, user's order should be filled at 20:38:29, however it did not.
+Meanwhile, user's maker sell order is placed at before this trade, and user's order was the first at sell 14457.40000000 @ 0.498 due to user's order was traded at 20:38:28, which means, if the Binance claimed 81236.7 did happened, user's order should be filled at 20:38:29, however it did not.
 
 ### More Cases will be updated
 
