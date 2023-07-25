@@ -1,4 +1,4 @@
-# Binance Fraud Proofs
+# Binance Fraud Reports
 
 ## 1. Sending Fake Trade Information to Users
 
